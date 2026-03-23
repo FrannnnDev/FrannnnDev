@@ -68,10 +68,6 @@ Open to collaborating on anything cool
 
 <br><br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=wcd6&hide_border=true&background=0d1117&stroke=21262d&ring=ff4444&fire=ff4444&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" width="600"/>
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wcd6&bg_color=0d1117&color=ff4444&line=ff4444&point=c9d1d9&area=true&area_color=1a0000&hide_border=true" width="90%"/>
 
 </div>
